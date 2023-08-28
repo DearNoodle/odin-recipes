@@ -1,2 +1,2 @@
 # odin-recipes
-[Link](DearNoodle.github.io/odin-recipes)
+[Link](https://dearnoodle.github.io/odin-recipes/)
